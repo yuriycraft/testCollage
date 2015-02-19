@@ -6,7 +6,6 @@ testCollage
 
 Главное, на что стоит обращать внимание при выполнении тестового задания — это качество кода.
 
-Язык — ObjC. Время — 3 дня.
 
 Используются библиотеки:
 AFNetworking  - https://github.com/AFNetworking/AFNetworking

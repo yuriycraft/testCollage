@@ -12,13 +12,8 @@ AFNetworking  - https://github.com/AFNetworking/AFNetworking
 MWPhotoBrowser  - https://github.com/mwaterfall/MWPhotoBrowser
 
 Скриншоты 
-![Alt text]
-(https://github.com/yuriycraft/testCollage/blob/master/scr/iOS Simulator Screen Shot 20 февр. 2015 г., 0.36.31.png?raw=true)
-![Alt text]
-(https://github.com/yuriycraft/testCollage/blob/master/scr/iOS Simulator Screen Shot 20 февр. 2015 г., 0.37.03.png?raw=true)
-![Alt text]
-(https://github.com/yuriycraft/testCollage/blob/master/scr/iOS Simulator Screen Shot 20 февр. 2015 г., 0.37.21.png?raw=true)
-![Alt text]
-(https://github.com/yuriycraft/testCollage/blob/master/scr/iOS Simulator Screen Shot 20 февр. 2015 г., 0.37.40.png?raw=true)
-![Alt text]
-(https://github.com/yuriycraft/testCollage/blob/master/scr/iOS Simulator Screen Shot 20 февр. 2015 г., 0.38.00.png?raw=true)
+![Alt text](https://github.com/yuriycraft/testCollage/blob/567abcc13bfa1fe7cbedd85e6e573bfb1f9776c7/scr/iOS%20Simulator%20Screen%20Shot%2020%20%D1%84%D0%B5%D0%B2%D1%80.%202015%20%D0%B3.%2C%200.36.31.png?raw=true)
+![Alt text](https://github.com/yuriycraft/testCollage/blob/567abcc13bfa1fe7cbedd85e6e573bfb1f9776c7/scr/iOS%20Simulator%20Screen%20Shot%2020%20%D1%84%D0%B5%D0%B2%D1%80.%202015%20%D0%B3.%2C%200.37.03.png?raw=true)
+![Alt text](https://github.com/yuriycraft/testCollage/blob/567abcc13bfa1fe7cbedd85e6e573bfb1f9776c7/scr/iOS%20Simulator%20Screen%20Shot%2020%20%D1%84%D0%B5%D0%B2%D1%80.%202015%20%D0%B3.%2C%200.37.21.png?raw=true)
+![Alt text](https://github.com/yuriycraft/testCollage/blob/567abcc13bfa1fe7cbedd85e6e573bfb1f9776c7/scr/iOS%20Simulator%20Screen%20Shot%2020%20%D1%84%D0%B5%D0%B2%D1%80.%202015%20%D0%B3.%2C%200.37.40.png?raw=true)
+![Alt text](https://github.com/yuriycraft/testCollage/blob/567abcc13bfa1fe7cbedd85e6e573bfb1f9776c7/scr/iOS%20Simulator%20Screen%20Shot%2020%20%D1%84%D0%B5%D0%B2%D1%80.%202015%20%D0%B3.%2C%200.38.00.png?raw=true)
